@@ -1,0 +1,12 @@
+*{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button {
+    border-radius: 20 px;
+    border: none;
+    cursor: pointer;
+    padding: 10 px 20 px;
+    margin: 10 px;
+    background-color:peru;
+    text-transform: uppercase;
+}
